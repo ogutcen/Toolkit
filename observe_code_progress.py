@@ -55,7 +55,16 @@ import winsound
 winsound.Beep(1500, 1000)
 
 
-#OPTION 8 COMBO SAMPLE
+#OPTION 8 COMBO SAMPLE # Professional Ending Sound Concept
 import winsound
-print("✅ DONE")
-winsound.Beep(500, 200);winsound.Beep(1500, 200);winsound.Beep(1000, 200)  # frequency, duration
+winsound.Beep(2000, 500)
+winsound.Beep(1500, 500)
+winsound.Beep(1000, 999)
+
+# * Over thousand seconds may blocked.
+
+#OPTION 9 COMBO SAMPLE # Professional Ending Sound Concept
+import winsound
+winsound.Beep(2200, 500)
+winsound.Beep(1600, 500)
+winsound.Beep(1100, 999)
